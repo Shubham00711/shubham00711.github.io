@@ -1,0 +1,27 @@
+{
+    "name": "Pharmanic PWA",
+    "short_name": "Pharmanic",
+    "start_url": "/",
+    "scope": ".",
+    "background_color": "#FFFFFF",
+    "theme_color": "#10847E",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "pharmacy.png",
+            "sizes": "160x160",
+            "type": "image/png",
+            "purpose": "any"
+
+        },
+        {
+            "src": "pharmacy512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+
+        }
+    ]
+
+
+}
